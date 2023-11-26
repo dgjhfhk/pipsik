@@ -1,0 +1,44 @@
+
+*{
+
+margin: 0;
+padding: 0;
+
+
+}
+
+
+.container{
+
+    background-color: rgb(172, 137, 207); 
+    
+
+max-width: 700px;
+margin: 0 auto;
+
+
+}
+
+
+.body{
+
+
+    background-color: rgb(180, 116, 239); 
+    font-family: 'Shantell Sans', cursive;
+}
+
+
+
+img {
+
+width:100%;
+
+
+}
+
+
+
+
+
+
+
